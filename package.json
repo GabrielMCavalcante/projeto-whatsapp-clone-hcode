@@ -26,6 +26,6 @@
     "pdfjs-dist": "^2.3.200",
     "request": "^2.79.0",
     "webpack": "^3.1.0",
-    "webpack-dev-server": "^2.11.5"
+    "webpack-dev-server": "^3.1.11"
   }
 }
